@@ -1,0 +1,240 @@
+ko,en,tw
+체스트 프레스,Flat Bench Press,平板臥推
+트라이셉스 푸쉬다운,Triceps Pushdown,三頭肌下壓
+리어델트,Rear delt,三角肌後束
+시티드 딥,Seated Dip,坐式雙臂屈伸
+어시스티드 친,Assisted Chin,輔助下巴
+체스트 프레스,Chest Press,胸部按壓
+데드 리프트,Deadlift,硬舉
+어시스티드 딥,Assisted Dip,輔助浸浴
+스플릿 스쿼트,Split Squat,分腿深蹲
+런지,Lunge,弓箭步
+원 암 로우,One Arm Row,一臂划船
+사이드 레터럴 레이즈,Side Lateral Raise,側平舉
+해머 컬,Hammer Curl,錘式彎舉
+로우 케이블 플라이,Low Cable Fly,低線飛線
+클라이밍,Climbing,攀爬
+시티드 로우,Seated Row,坐排
+스탠딩 트렁크 로테이션,Standing Trunk Rotation,站立軀幹旋轉
+사이드 워킹,Side Walking,側走
+케이블 힙 쓰러스트,Cable Hip Thrust,繩索髖部推力
+케이블 런지 트위스트,Cable Lunge Twist,繩索弓箭步扭轉
+체스트 플라이,Pec Fly,佩克飛
+업도미널,Abdominal,腹部
+바이셉스 컬,Biceps curl,二頭肌彎舉
+이너 아웃 타이,Inner Outer Thigh,大腿內側外側
+한 손 당기기,One Hand Pull,一隻手拉
+양손 당기기,Two Hand Pull,兩隻手拉
+한 손 밀기,One Hand Push,一隻手推
+양손 밀기,Two Hand Push,兩隻手推
+랫 풀 다운,Lat Pull Down,高位下拉
+인클라인 벤치 프레스,Incline Bench Press,上斜臥推
+디클라인 벤치 프레스,Decline Bench Press,下斜臥推
+기타 운동,ETC,其他鍛鍊
+펙 덱 플라이,Pec Dec Fly,佩奇·德·弗萊
+레그프레스,Leg Press,腿部推舉
+레그 익스텐션,Leg Extension,腿部伸展
+숄더 프레스,Shoulder Press,肩部推舉
+시티드 레그 컬,Seated Leg Curl,坐姿腿彎舉
+원 핸드 체스트 프레스,One Hand Chest Press,一手推胸
+프론트 스쿼트,Front Squat,前蹲
+케이블 사이드 킥,Cable SIde Kick,電纜側踢
+암 풀 다운,Arm Pull Down,手臂下拉
+바벨 로우,Barbell Row,槓鈴划船
+케이블 리버스 플라이,Cable Reverse Fly,電纜反向飛翔
+프론트 레이즈,Front Raise,前平舉
+케이블 킥백,Cable Kickback,電纜回扣
+케이블 크로스 오버,Cable Cross Over,電纜交叉
+로터리 토르소,Rotary Torso,旋轉軀幹
+힙 익스텐션,Hip Extension,髖部伸展
+케이블 크런치,Cable Crunch,電纜緊縮
+스쿼트,Squat,蹲
+시티드 레그 프레스,Seated Leg Press,坐姿壓腿
+레그컬,Leg Curl,腿彎舉
+전체 운동,All,全部
+론픽 스마트짐 카드를 태그하세요.,Please tag your Renfit card,請標記您的 Renfit 卡
+리더기에 카드를 태그하세요.,Please tag the card on the reader,請將卡片貼在讀卡機上
+ID번호를 입력하세요.,Please enter the ID number,請輸入身分證號碼
+ID번호는 론픽앱>키패드/QR코드에서 확인 가능합니다.,The ID number can be found in the Renfit app > Keypad/QR Code,ID號碼可以在Renfit應用程式>鍵盤/二維碼中找到
+회원 등록.,Register Card,登記卡
+리앤핏 RFID 등록.,Register Renfit RFID,註冊 Renfit RFID
+"회원번호 입력 후,\n리앤핏에서 사용하실 카드를 리더기에 태그하세요.","After entering the keypad number, please tag the card you will use at Renfit on the reader",輸入鍵盤號碼後，請在讀卡機上標記您將在 Renfit 使用的卡
+리더보드,Leaderboard,排行榜
+오늘의 운동,Today's Workout,今天的鍛煉
+모듈 운동 데이터,Module Workout,模組鍛煉
+미니플러스 운동 데이터,MiniPlus Workout,迷你加鍛煉
+심 근기능 평가,XIM Test Results,XIM 測試結果
+상세 운동 기록.,Detailed Workout Record,詳細的鍛鍊記錄
+@month월@day일,@month/@day,@月/@日
+운동 기록이 없어요,There is no exercise record,沒有運動紀錄
+근기능,Muscle Function,肌肉功能
+근력,Muscle Strength,肌肉力量
+일일 데이터,Daily,日常的
+데이터 추세,Trend Analysis,趨勢分析
+더욱 자세한 근기능 측정 및 진단은 트레이너에게 문의하여 1RM 측정을 진행하세요.,Consult your trainer for a more detailed muscle assessment and perform a 1RM test.,請諮詢您的教練以獲得更詳細的肌肉評估並執行 1RM 測試。
+"가슴, 등 힘 차이.",Chest and back strength discrepancy,胸部和背部力量差異
+"가슴, 등 힘 차이",Chest/Back\nStrength,胸部/背部\n力量
+"허벅지 앞,뒤 힘 차이",Front/Back\nThigh,前/後\n大腿
+가슴 근육 힘,Ch. Muscle\nStrength,胸肌\力量
+허벅지 앞,Front Thigh,大腿前部
+등 근육 힘,B. Muscle\nStrength,背部肌肉\n力量
+허벅지 뒤,Back Thigh,大腿後側
+월,Mon,週一
+화,Tue,星期二
+수,Wed,週三
+목,Thu,星期四
+금,Fri,週五
+토,Sat,星期六
+일,Sun,太陽
+1월,January,一月
+2월,February,二月
+3월,March,行進
+4월,April,四月
+5월,May,可能
+6월,June,六月
+7월,July,七月
+8월,August,八月
+9월,September,九月
+10월,October,十月
+11월,November,十一月
+12월,December,十二月
+운동 기록,Exercise Record,運動紀錄
+세트,Set,套
+갯수,Rep,次
+평균무게,Weight,重量
+운동 총량,Total,全部的
+평균 힘,Avg.,平均。
+평가 데이터 미발견,Data Not Found.,未找到數據。
+근기능 평가 받고 건강 상태를 확인해보세요,Receive a muscle function assessment and check your health status,接受肌肉功能評估並檢查您的健康狀況
+데이터 없음.,No Data,無數據
+정상 범위,Normal Range,正常範圍
+상지 전면 좌우,Upper Body Front L/R,上身前左/右
+상지 후면 좌우,Upper Body Back L/R,上半身後左/右
+몸통 좌우,Torso L/R,軀幹左/右
+상지 전후방,Upper Body Front/Back,上半身前/後
+하지 전후방.,Lower Body Front/Back.,下半身前/後。
+좋아요!\n꾸준한 스트레칭과 운동으로 건강을 유지하세요.,Great!\nMaintain your health with regular stretching and exercise.,太棒了！ \n透過定期伸展運動和運動來保持健康。
+주의: 근기능 이상징후가 상승하고 있어요.,Warning: Signs of muscle function abnormality are increasing.,警告：肌肉功能異常的跡象正在增加。
+경고: 전문가 상담 필요.,Warning: Expert consultation needed.,警告：需要專家諮詢。
+우측,Right,正確的
+전면,Front,正面
+좌측,Left,左邊
+후면,Back,後退
+약함,Weak,虛弱的
+근기능 분석 기준,Muscle Function Analysis Criteria,肌肉功能分析標準
+근기능 분석 기준,Muscle Function Analysis Criteria,肌肉功能分析標準
+로그 아웃,Log Out,退出
+로그아웃 하시겠습니까?,Would you like to log out?,您想退出嗎？
+취소,Cancel,取消
+확인,Confirm,確認
+"정확한 근기능 분석을 위해서,\n주요 측정 데이터(근지구력, 평균힘, 근순발력, 최대힘, 안정성)를 이해해야합니다.","For accurate muscle function analysis, it is necessary to understand key measurement data (muscular endurance, average strength, muscular power, maximum strength, stability).",為了進行準確的肌肉功能分析，需要了解關鍵測量數據（肌肉耐力、平均力量、肌肉力量、最大力量、穩定性）。
+근지구력,Muscular Endurance,肌肉耐力
+근순발력,Muscular Power,肌肉力量
+평균힘,Average Strength,平均強度
+최대힘,Maximum Strength,最大強度
+안정성,Stability,穩定
+근지구력은 힘을 지속적으로 낼 수 있는 능력입니다. 그래프가 겹칠 수록 GOOD입니다.,"Muscular endurance: Sustain force longer, better if graphs overlap (GOOD).",肌肉耐力：如果圖表重疊，則維持力量的時間更長，效果更好（好）。
+순발력은 최대힘까지 도달하는 속도입니다. 꼭지점까지 도달하는 거리가 짧을 수록 GOOD입니다.,Explosive power: Faster to max strength is better (GOOD).,爆發力：越快達到最大力量越好（好）。
+평균힘은 가동범위 전체에서 발휘하는 힘의 평균입니다. 그래프 면적이 클수록 GOOD입니다.,Average strength: Higher a. force over range means better performance (GOOD).,平均強度：較高力超過範圍意味著更好的性能（良好）。
+최대힘은 가동범위에서 낼 수 있는 가장 큰 힘 입니다. 꼭지점 높이가 높을 수록 GOOD입니다.,Maximum strength: Higher peaks are preferable (GOOD).,最大強度：峰值越高越好（好）。
+안정성은 운동 중 일정하게 힘을 내는 능력입니다. 그래프가 떨리지 않을수록 GOOD입니다.,Stability: Consistent force with less graph fluctuation is better (GOOD).,穩定性：力的一致性和圖形波動越小越好（好）。
+좌우 밸런스,Left-Right Balance,左右平衡
+근기능 평균,Average Muscle Function,平均肌肉功能
+종합 점수,Overall Score,總分
+양손,Both,兩個都
+회,,次
+힘,Force,力量
+가동범위,ROM,唯讀記憶體
+전체 횟수,Total,全部的
+데이터를 불러오는데 실패했습니다,Failed to load data,載入資料失敗
+근기능이 아주 좋아요!\n꾸준히 유지해볼까요 🔥,Your muscle function is very good! Shall we keep it up? 🔥,你的肌肉功能很好！我們要堅持下去嗎？ 🔥
+근기능이 좋습니다! 조금만\n개선하면 아주 좋을거에요 👍,Your muscle function is good! A little improvement would make it excellent 👍,你的肌肉功能很好！稍微改進一下就會變得很棒👍
+근기능이 부족합니다. 운동으로\n충분히 좋아질 수 있어요 😁,Your muscle function is lacking. It can greatly improve with exercise 😁,你的肌肉功能缺乏。透過運動可以大大改善😁
+근기능의 개선이 시급합니다.\n우리 같이 운동을 시작해볼까요? 💪,Improvement in muscle function is urgent. Shall we start exercising together? 💪,改善肌肉功能刻不容緩。我們一起開始運動好嗎？ 💪
+가슴 근기능 분석 결과,Chest Muscle Analysis Results,胸部肌肉分析結果
+등 근기능 분석 결과,Back Muscle Analysis Results,背部肌肉分析結果
+어깨 근기능 분석 결과,Shoulder Muscle Analysis Results,肩部肌肉分析結果
+하체 근기능 분석 결과,Lower Body Muscle Analysis Results,下半身肌肉分析結果
+평균 이하,Below Av.,低於平均水平
+평균,Average,平均的
+평균 이상,Above Av.,高於平均水平
+근기능 그래프,Muscle Function Graph,肌肉功能圖
+서킷 트레이닝,Circuit Training,循環訓練
+운동 부위,Area,區域
+전신,Full Body,全身
+수행 횟수,Quantity,數量
+등속성 근력 운동 7종,7 Types of Isokinetic Exercises,7 種等速運動
+1. 서킷 트레이닝 데이터를 분석하여 처방 운동을 제공해드립니다.\n2. 운동 강도 보다 알맞은 운동 자세에 집중해주세요.\n3. 머신 이용에 문의 사항은 근처 트레이너에게 말씀해주세요.,"1. We analyze circuit training data to provide prescribed exercises.\n2. Focus on proper exercise posture rather than intensity.\n3. For machine use queries, please consult a nearby trainer.",1. 我們分析循環訓練資料以提供規定的練習。注重正確的運動姿勢而非強度。對於機器使用方面的疑問，請諮詢附近的培訓師。
+유의사항,Precautions,預防措施
+운동 플랜이 없습니다.,No Exercise Plan.,沒有運動計畫。
+트레이너에게 문의 해보세요.,Consult Your Trainer.,請諮詢您的培訓師。
+에러: @error,Error: @error,錯誤：@錯誤
+인터넷 연결 없음,No internet connection,沒有網路連線
+미니플러스,Miniplus,迷你加
+심,Xim,運動經驗
+스마트모듈,Smart Module,智慧模組
+클라이밋,Climit,克利米特
+허벅지,Thigh,大腿
+엉덩이,Hip,時髦的
+등,Back,後退
+복부,Abdominal,腹部
+어깨,Shoulder,肩膀
+팔,Arm,手臂
+가슴,Chest,胸部
+종아리,Calf,小牛
+전신,Full Body,全身
+현재 주차,Current Week,本週
+일정,Schedule,行程
+완료 플랜 수,Completed,完全的
+주차,{ordinary number} week,{普通數}週
+주 과정,{number}-week workout,{number} 週鍛煉
+개,OO,物件導向
+@day 일차,Day @day,日@day
+오늘 할 플랜,Today's plan,今天的計劃
+자세히 보기,View,看法
+사용 머신,Used Machine,二手機器
+단련 부위,Targeted Area,目標區域
+운동 플랜!,Exercise Plan!,鍛鍊計畫！
+트레이너가 설계한,The,訓練師建造
+운동 플랜,workout plan,鍛鍊計畫
+은\n이번주에 최소한 해야하는 운동 횟수 입니다.\n수행 여부에 따라,designed by your trainer indicates the minimum number of workouts you need to complete this week. The,由您的教練設計的指示您本週需要完成的最少鍛鍊次數。這
+시스템이 관리,system will manage,系統將管理
+하니\n운동만 열심히 해주세요!,"your progress based on your performance, so just focus on exercising diligently!",你的進步取決於你的表現，所以只要專注於努力鍛鍊就好了！
+운동플랜 업데이트: 매주 월요일 am03:00,Update: Every Monday at 3:00 am,更新時間：每週一凌晨 3:00
+오늘은 운동 플랜이 없습니다.,There is no exercise plan today.,今天沒有運動計畫。
+트레이너에게 문의 해보세요.,Please contact the trainer.,請聯繫培訓師。
+진행 시간,Period,時期
+운동 플랜,Exercise Plan,鍛鍊計畫
+닫기,Close,關閉
+완료,Complete,完全的
+운동 데이터,Workout,鍛鍊
+근기능 평가,Test Results,測試結果
+모듈,Module,模組
+좌측(한손),Left,左邊
+우측(한손),Right,正確的
+덤벨(양손),Dubmbbell,啞鈴
+바벨(양손),Barbell,槓鈴
+운동모드,Mode,模式
+진행 시간,Duration,期間
+횟수,Reps,代表
+운동 방법,Guide,指導
+주의사항,Cautions,注意事項
+메모,Notes,筆記
+좌/우 구분,Left/Right,左/右
+손잡이,Handle,處理
+운동 준비물,Exercise Supplies,運動用品
+준비물이 없습니다.,No supplies needed.,無需補給。
+날짜,Date,日期
+이미지,Image,影像
+암 선택,Arm Selection,手臂選擇
+왼쪽 암,Left Arm,左臂
+사용 안함,Not Used,未使用
+상하 핀번호 :,Up/Down Pin:,上/下銷：
+좌우 핀번호 :,Side Pin:,側銷：
+오른쪽 암,Right Arm,右臂
+운동 동작 목록,Exercise List,練習清單
+사용 머신 /운동부위,Used Machine /Body Part,二手機/車身零件
+세트 구성,Set Config,設定配置
+예상 운동 시간:,Estimated Exercise Time :,預計運動時間：
+분,Minutes,分分鐘
+운동 기간 :,Exercise Duration :,運動時間：

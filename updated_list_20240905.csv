@@ -1,0 +1,630 @@
+key,en,ko,tw,new_word
+first_exercise_of_managed,First Experience of Managed Exercise,관리 받는 운동의 첫 경험,管理鍛鍊的初體驗,existing
+login_with_kakao,Login with Kakao,카카오로 시작하기,使用Kakao登入,existing
+login_with_naver,Login with Naver,네이버로 시작하기,使用 Naver 登入,existing
+login_with_apple,Login with Apple,Apple로 시작하기,使用蘋果登入,existing
+term_of_use_1,"By logging in, you agree to the ",로그인 시,登入即表示您同意,existing
+term_of_use_2,Privacy Policy,개인정보 처리방침,隱私權政策,existing
+term_of_use_3, \nand ,과,\n和,existing
+term_of_use_4,Terms of Service,서비스 이용약관,服務條款,existing
+term_of_use_4,Terms of Service,서비스 이용약관,條款與條件,existing
+term_of_use_5,.,에\n동의한 것으로 간주합니다.,您將被視為已同意/n此。,existing
+canceled,Canceled.,취소되었습니다.,取消。,existing
+error,Error: @error,에러: @error,錯誤：@錯誤,existing
+naver_login_error,Naver Login Error,네이버 로그인 에러,Naver 登入錯誤,existing
+privacy_policy,Privacy Policy,개인정보 이용약관,隱私權政策,existing
+terms_and_condition,Terms and Conditions,서비스 이용약관,服務條款,existing
+terms_and_condition,Terms and Conditions,서비스 이용약관,條款與條件,existing
+html_error_message,Failed to load HTML content on the web.,웹에서 HTML 콘텐츠를 불러오지 못했습니다.,無法載入網路上的 HTML 內容。,existing
+letter_number_symbol_requirement,"Only letters, numbers, and some symbols (_, .) are allowed.","문자 + 숫자 + 일부기호(_,.)만 입력 가능",只允許使用字母、數字和一些符號（_、.）。,existing
+max_char_requirement,Maximum of 12 characters allowed. Check for duplicate nicknames.,12자 초과 입력 막음 닉네임 중복 체크,最多允許 12 個字元。檢查是否有重複的暱稱。,existing
+duplicated_nick_name,Duplicate nickname.,중복된 닉네임 입니다,暱稱重複。,existing
+photo_error,Photo Error: @error,사진 에러: @error,照片錯誤：@error,existing
+permission_denied,Permission denied.,권한이 거부되었습니다.,沒有權限。,existing
+permission_denied_desc,Permission has been denied. Please allow the app permissions in your phone settings if you want to use this feature.,권한이 거부되었습니다. 기능 사용을 원하실 경우 휴대폰 설정에서 해당 앱의 권한을 허용해주세요,許可已被拒絕。如果您想使用此功能，請在手機設定中允許應用程式權限。,existing
+decorate_profile_image,Decorate your profile image,프로필 이미지를 꾸며보세요,裝飾您的個人資料圖片,existing
+select_from_gallery,Select from Gallery,앨범 선택,從圖庫中選擇,existing
+take_photo,Take a Photo,사진 촬영,拍張照片,existing
+save,Save,저장,節省,existing
+choose_level_of_exercise,Choose your exercise level,운동 수준을 선택해 주세요,選擇您的運動水平,existing
+select_at_least_one_exercise_purpose,Please select at least one exercise purpose,1개 이상의 운동 목적을 선택해주세요,請至少選擇一項運動目的,existing
+select_at_least_one_activity_level,Please select at least one activity level,1개 이상의 활동량을 선택해주세요,請至少選擇一個活動級別,existing
+select_all_items,Please select all items,항목을 모두 선택해주세요,請選擇所有項目,existing
+enter_only_numbers,Please enter only numbers.,숫자만 입력해 주세요.,請僅輸入數字。,existing
+enter_all_membership_information,Please enter all membership information,회원정보를 모두 입력해주세요,請輸入所有會員資訊,existing
+step_permission,Data permission for step measurement,걸음 수 측정을 위한 데이터 권한,步數測量數據權限,existing
+chest_muscle_strength,Chest Strength,가슴 근육 힘,胸部力量,existing
+lower_muscle_strength,Quadriceps Strength,하체 전방 근육 힘,股四頭肌力量,existing
+back_muscle_strength,Back Strength,등 근육 힘,背部力量,existing
+lower_lateral_muscle_strength,Hamstring Strength,하체 후방 근육 힘,腿筋力量,existing
+dislike_workout,I don't enjoy working out,운동을 잘 하지않아요,我不喜歡鍛煉,existing
+dislike_workout,I don't enjoy working out,운동을 잘 하지않아요,我不常運動。,existing
+dislike_workout_recommendation,I don't like the workout recommendations,운동 추천이 별로에요,我不喜歡運動建議,existing
+dislike_the_app,I didn't know it was this kind of application,이런 어플리케이션인지 몰랐어요,我不知道這是這樣的應用程式,existing
+etc,Other,기타,其他,existing
+agree_to_delete,Please agree to the information deletion,정보 삭제 동의를 해주세요,請同意資訊刪除,existing
+enter_valid_bpm,Please enter a valid BPM.,유효한 BPM을 입력해주세요.,請輸入有效的 BPM。,existing
+no_internet_error,No internet connection,인터넷 연결 없음,沒有網路連線,existing
+cancel,Cancel,취소,取消,existing
+logout,Logout,로그아웃,退出,existing
+notification,Notification,알림,通知,existing
+do_you_want_to_logout,Do you want to logout?,로그아웃 하시겠습니까?,您想退出嗎？,existing
+reset_password,Reset Password,비밀번호 재설정,重設密碼,existing
+reset_password_desc,Reset your password using your phone number.,휴대폰 번호를 통한 비밀번호 재설정을 진행합니다.,使用您的電話號碼重設密碼。,existing
+next,Next,다음,下一個,existing
+find_id,Find ID,아이디 찾기,尋找身分證,existing
+you_can_check_your_id_when_authenticate,You can check your ID when authenticating your phone number.,휴대폰 본인인증 시 아이디 확인이 가능합니다.,您可以在驗證電話號碼時檢查您的 ID。,existing
+renfit_authentication1,Why is ,리앤핏 가입 시,為什麼是,existing
+renfit_authentication1,Why is ,리앤핏 가입 시,為什麼需要個人和身體訊息,existing
+renfit_authentication2,RenFit Authentication,본인인증,仁菲認證,existing
+renfit_authentication3, necessary when joining RenFit?,이\n필요한 이유가 뭔가요?,加入RenFit時有必要嗎？,existing
+renfit_authentication_desc,RenFit conducts authentication to prevent identity theft and ensure accurate information through real-name verification.,"리앤핏은 명의도용 방지, 실명 확인을 통한 정확한 정보 제공을 위해 본인인증을 실시하고 있습니다.",RenFit透過實名認證進行身份驗證，防止身分盜用並確保資訊準確。,existing
+id_verification,ID Verification,아이디 확인,身份驗證,existing
+id_verification_desc,List of IDs that match your information.,회원님의 정보와 일치하는 아이디 목록입니다.,與您的資訊相符的 ID 清單。,existing
+go_to_login,Go to Login,로그인 하러가기,前往登入,existing
+find_password,Find Password,비밀번호 찾기,尋找密碼,existing
+information_does_not_match,There is no ID that matches the entered information.,입력하신 정보와 일치하는 아이디가 존재하지 않습니다.,沒有與輸入的資訊相符的 ID。,existing
+go_to_sign_up,Go to Sign Up,회원가입 하러가기,前往註冊,existing
+please_wait_for_moment,Please wait a moment...,잠시만 기다려주세요...,請稍等...,existing
+id_email_text_field,ID (Email),아이디 (이메일),身分證（電子郵件）,existing
+password,Password,비밀번호,密碼,existing
+confirm_password,Confirm Password,비밀번호 확인,確認密碼,existing
+password_req_1,"Please enter a combination of letters, numbers, and special characters (8-20 characters).","영문, 숫자, 특수문자를 조합하여 8~20자로 입력해주세요",請輸入字母、數字和特殊字元（8-20 個字元）的組合。,existing
+can_use_password,You can use this password.,사용할 수 있는 비밀번호 입니다,您可以使用該密碼。,existing
+password_does_not_match,Passwords do not match.,비밀번호가 일치하지 않습니다,密碼不符。,existing
+password_matching,Passwords match!,비밀번호 일치!,密碼匹配！,existing
+phone_number,Phone Number,휴대폰 번호,電話號碼,existing
+close,Close,닫기,關閉,existing
+go_to_login_spaced,Go to Login,로그인 하러 가기,前往登入,existing
+already_signed_up,You are already a member of RenFit.,이미 리앤핏 회원이시네요,您已經是 RenFit 的會員。,existing
+already_member_sign_in,You are already a registered member. Do you want to proceed with the login?,이미 가입된 회원입니다.\n로그인을 진행할까요?,您已經是註冊會員了。您想繼續登入嗎？,existing
+invalid_email_format,Invalid email format.,이메일 형식에 맞지 않습니다,電子郵件格式無效。,existing
+this_email_in_use,This email is already in use.,이미 사용중인 아이디 입니다,該電子郵件已被使用。,existing
+available_to_use,This email is available to use.,사용할 수 있는 이메일 입니다,該電子郵件可供使用。,existing
+join_membership,Join Membership,회원가입,加入會員,existing
+enter_login_info,Please enter the information for login!,로그인을 위한 정보를 입력해주세요!,請輸入資訊進行登入！,existing
+will_proceed_with_mobile,We will proceed with the mobile phone number authentication.,휴대폰 번호를 통한 본인인증을 진행합니다.,我們將進行手機號碼認證。,existing
+profile_settings,Profile Settings,프로필 설정,設定檔設定,existing
+setting_profile_improves_performance,Members who set up their profiles achieve their goals better!,프로필을 설정한 회원이 더 목표를 잘 해냈어요!,建立個人資料的會員可以更好地實現他們的目標！,existing
+nick_name,Nickname,닉네임,暱稱,existing
+change_edit,Change,변경,改變,existing
+complete,Complete,완료,完全的,existing
+enter_membership_info,Enter Membership Information,회원정보 입력,輸入會員資訊,existing
+enter_membership_info_desc,Please enter your information so that we can recommend the appropriate training methods based on your information!,회원님의 정보를 바탕으로 적절한 트레이닝 방법을\n추천해 드립니다. 정확한 정보를 입력해주세요!,請輸入您的訊息，以便我們根據您的資訊推薦合適的培訓方法！,existing
+reason_for_personal_info1,Why is personal and physical information required,리앤핏 가입 시,為什麼是,existing
+reason_for_personal_info1,Why is personal and physical information required,리앤핏 가입 시,為什麼需要個人和身體訊息,existing
+reason_for_personal_info2, when joining RenFit? ,개인 · 신체정보,什麼時候加入RenFit？,existing
+reason_for_personal_info3,Why do you need personal information?,가\n필요한 이유가 뭔가요?,為什麼需要個人資訊？,existing
+reason_for_personal_info_desc,"We need your date of birth to properly protect the safety and privacy of young users.\nAdditionally, we can provide accurate exercise prescriptions based on gender, height, weight information.","생년월일이 있어야 어린 사용자의 안전과 프라이버시를 제대로 보호할 수 있습니다. 또 성별 및 신장, 체중 정보를 통해 정확한 운동 처방을 제공드릴 수 있습니다.",我們需要您的出生日期，以妥善保護年輕用戶的安全和隱私。,existing
+reason_for_personal_info_desc2,The collected data will not\nbe shared and will not be displayed\nin your profile.,위에서 수집된 데이터는 공유되지 않으며\n프로필에도 이 정보가 표시되지 않습니다.,收集的資料不會被分享，也不會顯示在您的個人資料中。,existing
+height_f,Height,신장,高度,existing
+weight_f,Weight,체중,重量,existing
+weight_f,Weight,체중,重量,existing
+male,Male,남,男性,existing
+male,Male,남,中號,existing
+female,Female,여,女性,existing
+female,Female,여,F,existing
+gender,Gender,성별,性別,existing
+gender,Gender,성별,性別,existing
+date_of_birth,Date of Birth (YYMMDD),생년월일 (YYMMDD),出生日期（年月日）,existing
+tell_level_of_exercise,Please let us know your level of exercise,회원님의 운동 수준을 알려주세요,請讓我們知道您的運動水平,existing
+expert_title,Expert,전문가,專家,existing
+expert_desc,My level of exercise is advanced.,저의 운동 수준은 수준급이에요,我的運動水準很高。,existing
+advanced_title,Advanced,고급,先進的,existing
+intermediate_title,Intermediate,중급,中間的,existing
+intermediate_desc,I can confidently say that exercise is my hobby.,당당하게 운동이 취미라 할 수 있어요,我可以自信地說，運動是我的興趣。,existing
+beginner_title,Beginner,초급,初學者,existing
+beginner_desc,I'm ready to start exercising seriously.,본격적으로 운동할 준비가 되었어요,我準備開始認真運動了。,existing
+introduction_title,Introduction,입문,介紹,existing
+introduction_desc,I know nothing about exercise.,운동에 대해서 아무것도 몰라요,我對運動一無所知。,existing
+weight_loss_title,I want to lose weight.,체중 감량을 하고싶어요.,我想減肥。,existing
+weight_loss_desc,We will recommend a program that can efficiently increase calorie consumption.,칼로리 소비를 효율적으로 높일 수 있는 프로그램을\n추천해드릴게요!,我們將推薦一個可以有效增加卡路里消耗的計劃。,existing
+muscle_increase_title,I want to increase muscle strength.,근력을 키우고 싶어요.,我想增加肌肉力量。,existing
+muscle_increase_desc,We will recommend unique exercises from Renfit that can efficiently develop strength and muscle function.,효율적으로 힘과 근기능을 발달할 수 있는 리앤핏만의 운동을\n추천해드릴게요!,我們將推薦 Renfit 的獨特練習，可以有效地增強力量和肌肉功能。,existing
+staying_healthy_title,I want to manage overall fitness.,전반적인 체력 관리를 하고싶어요.,我想管理整體健身。,existing
+staying_healthy_desc,We will recommend Renfit's exercises that will energize your daily life.,일상생활에 활력을 충전해주는 리앤핏만의 운동을\n추천해드릴게요!,我們將推薦 Renfit 的練習，為您的日常生活注入活力。,existing
+survey3_1_title,Very little activity,매우 적은 활동,活動很少,existing
+survey3_1_desc,I spend most of my day sitting and do not exercise separately.,"하루의 대부분을 앉아있고, 운동을 따로 하지 않아요.",我一天的大部分時間都是坐著的，不會單獨運動。,existing
+survey3_2_title,Light activity,가벼운 활동,輕度活動,existing
+survey3_2_desc,"I sit for long periods, but I exercise 1-3 times a week.","앉아있는 시간이 길지만, 운동을 주 1~3회 정도 해요.",我坐的時間很長，但每週運動 1-3 次。,existing
+survey3_3_title,Moderate activity,중간 정도의 활동,適度活動,existing
+survey3_3_desc,I move around occasionally during the day and exercise 3-5 times a week.,"일과 종종 움직이며, 운동을 주 3~5회 정도 해요.",我白天偶爾走動，每週運動 3-5 次。,existing
+survey3_4_title,A lot of activity,매우 많은 활동,大量的活動,existing
+survey3_4_desc,I have a lot of movement and exercise 6-7 times a week.,"많은 움직임이 있으며, 운동을 주 6~7회 정도 해요.",我的運動量很大，每週運動6-7次。,existing
+survey3_5_title,Intense activity,격렬한 활동,劇烈活動,existing
+survey3_5_desc,"I have a job that requires a lot of physical activity, such as heavy lifting.",완력 등 운동 능력을 많이 사용하는 직업을 가지고 있어요.,我的工作需要大量體力活動，例如提重物。,existing
+survey4_question_1,Do you have joint pain (such as arthritis) or problems like fractures?,관절 문제로 인한 통증(관절염 등)또는 골절 등의\n문제가 있습니까?,您有關節疼痛（如關節炎）或骨折等問題嗎？,existing
+survey4_question_2,"Do you have any cardiovascular or respiratory diseases? (e.g., high blood pressure)",심장이나 호흡기질환이 있습니까? (고혈압 등),您有心血管或呼吸系統疾病嗎？ （例如高血壓）,existing
+survey4_question_3,"Do you have any metabolic disorders? (diabetes, obesity, etc.)","대사질환으로 인한 문제가 있습니까? (당뇨병, 비만 등)",您有任何代謝紊亂嗎？ （糖尿病、肥胖等）,existing
+survey4_question_4,"Do you have any spinal problems? (herniated disc, stenosis, spondylolisthesis, etc.)","척추손상으로 인한 문제가 있습니까?\n(디스크탈출, 협착증, 분리증 등)",你有脊椎問題嗎？ （椎間盤突出、椎管狹窄、脊椎滑脫等）,existing
+purpose_of_exercise,Please let us know your exercise goals.,회원님의 운동 목적을 알려주세요,請讓我們知道您的鍛鍊目標。,existing
+how_much_do_you_do,Please let us know your usual activity level.,회원님의 평소 활동량을 알려주세요,請讓我們知道您平時的活動量。,existing
+pre_exercise_risk_assessment,Pre-Exercise Risk Assessment,운동 사전 위험도 평가,運動前風險評估,existing
+select_yes_or_no,Please select Yes or No for each question.,질문에 따라 예 / 아니요를 선택을 해주세요.,請為每個問題選擇“是”或“否”。,existing
+yes,Yes,네,是的,existing
+no,No,아니요,不,existing
+need_medical_consultation,You need a consultation with a medical professional.,의학 전문가의 상담이 필요합니다.,您需要諮詢醫療專業人員。,existing
+login,Login,로그인,登入,existing
+renfit_getting_started,Get started with Renfit for a successful workout.,"리앤핏과 함께 실패없는 운동, 시작해보세요.",開始使用 Renfit 進行成功的鍛鍊。,existing
+total_weight,Total Weight,무게 총량,總重量,existing
+measure_1rm,Measure 1RM!,1RM 측정을 해주세요!,測量1RM！,existing
+left_to_target_weight,@value left to target!,목표까지 @value 남았어요!,@剩下的目標值！,existing
+achieved_goal,Goal Achieved!,목표를 달성했어요!,目標達到了！,existing
+number_of_climbs,Number of Climbs,클라이밋 층 수,攀登次數,existing
+unit_layer,Floors,층,樓層,existing
+unit_steps,Steps,걸음,步驟,existing
+number_of_steps,Current Steps,현재 걸음 수,目前步驟,existing
+recently,Recently,최근,最近,existing
+recently,Recently,최근,最近的,existing
+monday_half,Mon,월,週一,existing
+tuesday_half,Tue,화,星期二,existing
+wednesday_half,Wed,수,週三,existing
+thursday_half,Thu,목,星期四,existing
+friday_half,Fri,금,週五,existing
+saturday_half,Sat,토,星期六,existing
+sunday_half,Sun,일,星期日,existing
+number_of_steps_short,Steps,걸음수,步驟,existing
+renfit_cardio,Renfit Cardio,클라이밋 유산소,倫菲特有氧運動,existing
+cal_consumed,Calories Burned,활동 에너지,燃燒的卡路里,existing
+total_muscle_weight,Total Muscle Weight,근력 무게 총량,肌肉總重,existing
+program,Program,Program,程式,existing
+welcome,Welcome!,Welcome !,歡迎！,existing
+welcome_username,"Welcome, @userName!","반가워요, @userName님",歡迎，@userName！,existing
+goals,Goals,목표,目標,existing
+routine,Routine,루틴,常規,existing
+set_goal,Set your goals!,목표를 설정해주세요!,設定你的目標！,existing
+chest_power_difference,Chest/Back\nPower Difference,가슴 · 등\n힘 차이,胸部/背部\n力量差異,existing
+measuring,Measuring...,측정중..,測量...,existing
+lower_body_power_difference,Lower Body\nPower Difference,하체 전 · 후방\n힘 차이,下半身\n力量差異,existing
+no_1rm_data,No 1RM data available.,1RM 측정된 데이터가 없습니다.,沒有可用的 1RM 數據。,existing
+round,-round,회차,#NAME?,existing
+heart_rate,Heart Rate,심박평가,心率,existing
+target_heart_rate,Target Heart Rate,목표심박,目標心率,existing
+rest_heart_rate,Resting\nHeart Rate,안정시\n심박수,靜止\n心率,existing
+average_heart_rate,Average\nHeart Rate,운동시\n평균 심박수,平均\n心率,existing
+max_heart_rate,Maximum\nHeart Rate,운동시\n최대 심박수,最大\n心率,existing
+check_heart_rate,Measure your heart rate,심박수를 측정해 주세요,測量您的心率,existing
+rest,Rest,휴식,休息,existing
+stability,Stability,안정,穩定,existing
+exercise,Exercise,운동,鍛鍊,existing
+intensive_exercise,Intensive Exercise,고강도 운동,強化運動,existing
+dangerous_area,Dangerous Zone,위험영역,危險區域,existing
+muscular_exercise,Muscular Exercise,근력운동,肌肉鍛鍊,existing
+aerobic_activity,Aerobic Activity,유산소운동,有氧活動,existing
+aerobic_activity,Aerobic Activity,유산소운동,有氧運動,existing
+difference_muscle_strength,Muscle Strength Difference,근력 힘차이,肌力差異,existing
+difference_muscle_strength_desc,Exercise prescriptions will be provided based on the difference in muscle strength.,근력 힘차이에 따라 처방 운동이 제공됩니다.,將根據肌肉力量的差異提供運動處方。,existing
+1rm_measurement,Muscle Str. Measurement (1RM),근력 힘 측정 평가 (1RM),肌肉力量。測量（1RM）,existing
+in_ready,Coming soon,준비 중 입니다.,即將推出,existing
+motor_analysis,Exercise Analysis,운동 분석,運動分析,existing
+report,Report,리포트,報告,existing
+change,History,변화,歷史,existing
+contact_us,"If you have any reports or inquiries, please contact us.",신고/문의사항이 있으시면\n연락주세요,如果您有任何報告或疑問，請與我們聯絡。,existing
+inquire_kakao_talk,Contact us via KakaoTalk,카카오톡 문의하기,透過 KakaoTalk 聯絡我們,existing
+send_us_feedback,Please send us your valuable feedback.,소중한 피드백을 보내주세요.,請將您的寶貴回饋發送給我們。,existing
+customer_service,Customer Service,고객센터,客戶服務,existing
+consultation_time,Consultation Hours,상담시간,諮詢時間,existing
+weekday,Weekday,평일,工作日,existing
+kakao_chat_desc,"For other times, please leave a message on KakaoTalk, and we will contact you in order.",이외 시간은 카카오 문의로 남겨주시면 순차적으로 연락드리겠습니다.,其他時間請在KakaoTalk留言，我們會依序聯絡您。,existing
+notice,Notice,공지사항,注意,existing
+r_u_leaving,Are you sure you want to leave?,정말 탈퇴하시나요?,您確定要離開嗎？,existing
+reason_of_leaving,"Please let us know the reason for your withdrawal,\nso we can use it as reference to improve our service.",탈퇴하려는 이유를 알려주시면\n더 좋은 서비스를 만들기 위해 참고하겠습니다.,請告知我們您提款的原因，\n以便我們可以將其作為改進服務的參考。,existing
+do_not_workout,I don't exercise regularly.,운동을 잘 하지않아요,我不喜歡鍛煉,existing
+do_not_workout,I don't exercise regularly.,운동을 잘 하지않아요,我不常運動。,existing
+feel_free_to_give_ur_opinion,Please feel free to give your opinion!,자유로운 의견을 들려주세요!,請隨意發表您的意見！,existing
+would_you_like_to_try_again,Members who use Renfit\nare 4 times more consistent!\nWould you like to give it another try?,리앤핏을 사용하는 회원님들은 4배나 더 꾸준히 했답니다! 다시 도전해보지 않으시겠어요?,使用 Renfit 的會員\n一致性提高了 4 倍！,existing
+try_again,Try Again!,재도전!,再試一次！,existing
+want_to_give_up,I want to give up!,포기할래요!,我想放棄！,existing
+reason_for_withdrawal,Please select the reason for withdrawal,탈퇴 사유를 선택해주세요,請選擇提款原因,existing
+check_it_out,Please check it out,반드시 확인해주세요,請檢查一下,existing
+withdrawal_consequences,"When you withdraw from Renfit, your profile (including affiliations), exercise records, and all other user-set information will be deleted and cannot be recovered.","리앤핏 회원탈퇴 시, 내 프로필(소속 포함), 운동기록 데이터, 그 외 사용자가 설정한 모든 정보가 사라지며 복구가 불가능 합니다.",當您退出 Renfit 時，您的個人資料（包括隸屬關係）、鍛鍊記錄以及所有其他使用者設定的資訊將被刪除且無法恢復。,existing
+withdrawal_consequences2,"If you are a valid member of Renfit Center, even if you withdraw from the app, your data such as reservations and exercise test records will continue to be generated through the Fitness Center web service.","리앤핏 센터에 유효한 회원인 경우 앱을 탈퇴하더라도 피트니스 센터 웹을 통해 회원님의 예약, 운동검사 기록 등의 데이터는 계속 생성될 수 있습니다.",如果您是Renfit Center的有效會員，即使您退出應用程序，您的預訂和運動測試記錄等數據將繼續透過Fitness Center網路服務產生。,existing
+withdrawal_consequences3,"According to the privacy policy, if it does not fall under exceptional circumstances, information will be deleted after withdrawal, so please save any necessary information before withdrawing.",개인정보 처리방침에 따라 예외적 상황에 해당하지 않은 경우 회원 탈퇴 후 정보가 사라지므로 필요한 정보는 탈퇴 전 미리 저장해주세요.,根據隱私權政策，如無特殊情況，退出後資訊將被刪除，因此請在退出前保存必要的資訊。,existing
+agree_to_delete_all,I agree to delete all my information.,모든 정보를 삭제하는 것에 동의합니다.,我同意刪除我的所有資訊。,existing
+heart_rate_rest,Resting Heart Rate,안정시 심박수,靜止心率,existing
+heart_rate_rest_desc,Please enter your resting heart rate for cardiorespiratory fitness assessment!,심폐지구력 운동 검사를 위해\n안정시 심박수를 입력해주세요!,請輸入您的靜止心率以進行心肺健康評估！,existing
+heart_rate_measurement,Resting Heart Rate Measurement,안정시 심박수 측정법,靜止心率測量,existing
+use_watch_to_measure,Measure using a smartwatch or automatic blood pressure monitor in the center.\nSit comfortably in a nearby chair and take deep and slow breaths (respirations) 15 times.,스마트 워치 또는 센터 내 자동혈압계를 이용하여 측정합니다. 가까운 의자에 편하게 앉아서 깊고 느린 호흡(심호흡) 15회 해주세요.,使用中心的智慧手錶或自動血壓監測儀進行測量。 \n舒適地坐在附近的椅子上，緩慢深呼吸（呼吸）15 次。,existing
+renfit_members_proceed_with_trainer,"※ For Renfit members, please proceed with the center trainer.",※ 리앤핏 회원의 경우 센터 트레이너와 함께 진행해주세요.,※ Renfit會員請在中心教練的指導下進行。,existing
+my_info,My Info,내정보,我的信息,existing
+height_weight,Height / Weight,키 / 체중,身高/體重,existing
+exercise_level,Exercise Level,운동수준,運動水平,existing
+male_full,Male,남성,男性,existing
+female_full,Female,여성,女性,existing
+exercise_purpose,Exercise Purpose,운동목적,鍛鍊目的,existing
+no_information,No Data,정보없음,無數據,existing
+version_info,Version Info,버전정보,版本資訊,existing
+current_version,@version,최신 @version 버전 사용 중,@版本,existing
+membership_withdrawal,Membership Withdrawal,회원탈퇴,退出會員資格,existing
+ronfic_title,"Ronfic Co., Ltd.",(주)론픽,朗菲克有限公司,existing
+ronfic_desc1,Business Registration Number: 287-88-00245 | CEO: Baek Jun Young,사업자 등록번호 287-88-00245ㅣ대표 백준영,商業登記號碼：287-88-00245 |執行長：白俊英,existing
+ronfic_desc2,Phone Number: 051-637-6285,전화번호 051-637-6285,電話號碼：051-637-6285,existing
+ronfic_desc3,"Address: 1208-2, Jangseong-dong, Haeundae-gu, Busan, 1411 Centum Sky Biz A-dong","주소 부산시 해운대구 재송동 1208-2, 센텀스카이비즈 A동 1411호",地址：釜山廣域市海雲台區長城洞1208-2，Centum Sky Biz A洞1411,existing
+ronfic_desc4,Email: info@ronfic.com,이메일 info@ronfic.com,電子郵件：info@ronfic.com,existing
+member_number,Member Number,멤버번호,會員編號,existing
+member_number_desc,The 'Member Number' is required\nfor using Renfit machines.,리앤핏 머신 사용을 위한 ‘멤버번호’입니다.,使用 Renfit 機器時需要\n「會員號碼」。,existing
+activity,Activity,활동,活動,existing
+ranking,Ranking,랭킹,排行,existing
+api_unresponsive,API Unresponsive,API 응답없음,API 無回應,existing
+error_has_occurred,An error has occurred: @error_code,오류가 발생했습니다 : @error_code,發生錯誤：@error_code,existing
+loading,Loading,Loading,載入中,existing
+unexpected_error_occurred,An unexpected error occurred,Unexpected error occurred,發生意外錯誤,existing
+bad_request,Bad Request,Bad Request,錯誤的請求,existing
+unable_to_process,Unable to process,Unable to process,無法處理,existing
+api_not_responded_in_time,API not responded in time,Api not responded in time,API未及時回應,existing
+unauthorized_request,Unauthorized request,UnAuthorized request,未經授權的請求,existing
+check,Confirm,확인,確認,existing
+please_check_it_out,Please check it out!,확인해주세요!,請檢查一下！,existing
+details_of_changes,"Depending on the changed exercise purpose/level, exercise goals will be provided a new. After the current goals are completed, modified exercise prescriptions will be provided","변경된 운동목적/수준에 따라\n운동 목표가 새롭게 제공되며,\n현재 제공된 목표 진행완료 후\n변경된 운동처방이 제공됩니다.",根據改變的運動目的/水平，將提供新的運動目標。當前目標完成後，將提供修改後的運動處方,existing
+county_code,Country code,국가번호,國家代碼,existing
+hold_on,Hold On!,잠깐!,堅持，稍等！,existing
+weekly_goal,Weekly Goal,이번주 활동 목표,每週目標,existing
+no_program,No Available Programs,진행 중인 프로그램이 없어요!,沒有可用的程序,existing
+server_error,A server error has occurred.,서버 오류가 발생했습니다,伺服器發生錯誤。,existing
+enter_registered_email_to_reset,Please enter the email address you signed up for.\nWe will send you an email to reset your password.,가입한 이메일 주소를 입력해 주세요.\n비밀번호 재설정을 위한 이메일을 보내드리겠습니다.,請輸入您註冊時使用的電子郵件地址。,existing
+send_sms,Send,인증번호 발송,傳送,existing
+enter_valid_phone_number,Please enter a valid phone number.,올바른 전화 번호를 입력하십시오.,請輸入有效的電話號碼。,existing
+verification_code,Authentication Code,인증번호,驗證碼,existing
+did_not_receive_code,Didn't receive the code?,인증번호가 오지 않는다면?,沒有收到代碼？,existing
+resend,Resend,재발송,重新發送,existing
+data_rate_might_apply,Text message and data rates may apply.,문자 메시지 및 데이터 요금이 부과될 수 있습니다.,可能需要支付簡訊費和數據費。,existing
+sms_already_sent,SMS has already been sent.,SMS가 이미 전송되었습니다.,簡訊已經發送。,existing
+wait_for_timer,You can request another SMS only when you don't receive the verification code within 3 minutes,인증 코드를 3분 이내에 받지 못한 경우에만 다른 SMS를 요청할 수 있습니다.,只有當您在3分鐘內未收到驗證碼時，您才可以再次要求短信,existing
+login_with_facebook,Login with Facebook,Facebook으로 시작하기.,使用 Facebook 登入,existing
+welcome_renfit,Welcome to Renfit!,리앤핏 회원가입을 환영합니다!,歡迎來到倫菲特！,existing
+verify_email1,Hello. We have sent a verification email to ,안녕하세요. 본인인증 메일을 귀하의\n,你好。我們已發送驗證電子郵件至,existing
+verify_email2,". To complete the signup process, please click the verification button.",로 보냈습니다.\n가입절차를 마치기 위해\n본인인증 버튼을 클릭해주세요.,若要完成註冊流程，請按一下驗證按鈕。,existing
+login_,Sign in,로그인 하기,登入,existing
+unsubscribed_email,Unsubscribed Email,가입되지 않은 이메일입니다,取消訂閱的電子郵件,existing
+case_sensitive,Please enter with consideration for letter case sensitivity.,대소문자를 구분하여 입력해 주세요,輸入時請考慮字母大小寫。,existing
+we_sent_email,We have sent the password reset link.,비밀번호 재설정 링크를 보내드립니다.,我們已發送密碼重設連結。,existing
+we_sent_email_desc_1,We have sent an email to ,회원님의,我們已發送電子郵件至,existing
+we_sent_email_desc_2," for password reset. After changing the password, please try to log in again.",로변경 요청했습니다.비밀번호를 변경 후 다시 로그인 해주세요.,用於密碼重置。更改密碼後，請嘗試重新登入。,existing
+my_membership,My Membership,내 회원권,我的會員資格,existing
+days_left_1,There's only ,이용 기한이,只有,existing
+days_left_2,@day days ,@day일,@天日,existing
+days_left_3,left until the expiration date!,밖에 남지 않았어요!,留到過期日期！,existing
+renfit_membership,Renfit Membership,리앤핏 회원권,倫菲特會員,existing
+renfit_membership,Renfit Membership,리앤핏 회원권,倫菲特會員,existing
+no_membership_text,You don't have any purchased membership.,구입한 회원권이 없어요,您沒有購買任何會員資格。,existing
+see_membership_plan,Visit Renfit Membership Plans,리앤핏 회원권 구경하러 가기,造訪 Renfit 會員計劃,existing
+link_account,Linked accounts,계정연동,關聯帳戶,existing
+easy_login,Easy Login,간편로그인,輕鬆登入,existing
+easy_login_desc,Link your SNS for a more convenient login experience!,SNS를 연동하여 더욱 편리하게 로그인해 보세요!,連結您的SNS以獲得更便利的登入體驗！,existing
+kakao_account,KakaoTalk Account,카카오톡 계정,KakaoTalk 帳戶,existing
+naver_account,Naver Account,네이버 계정,Naver帳戶,existing
+facebook_account,Facebook Account,페이스북 계정,臉書帳戶,existing
+apple_account,Apple Account,애플 계정,蘋果帳戶,existing
+google_account,Google Account,구글 계정,谷歌帳戶,existing
+unlinked,,미연동,未連結,existing
+linked,Linked,연동완료,連結,existing
+unlink_id,Unlink @id,@id 연동해제,取消連結@id,existing
+login_gmail,Login with Gmail,Gmail로 로그인하기,使用 Gmail 登入,existing
+login_facebook,Login with Facebook,Facebook으로 로그인하기,使用 Facebook 登入,existing
+login_kakao,Login with KakaoTalk,카카오로 로그인하기,使用 KakaoTalk 登入,existing
+login_naver,Login with Naver,네이버로 로그인하기,使用 Naver 登入,existing
+login_apple,Login with Apple,Apple로 로그인하기,使用蘋果登入,existing
+payment_history,Subscription Payment History,회원권 결제 내역,訂閱付款歷史,existing
+payment_history_desc,"The subscription fee is charged on the billing cycle start date, and it may take several days for the billing date to appear on your account.","이용권 요금은 결제 주기 시작일에 청구되며, 계정에 청구일이 표시될 때까지 수일이 걸릴 수 있습니다.",訂閱費用在計費週期開始日期收取，計費日期可能需要幾天時間才會顯示在您的帳戶上。,existing
+no_payment_history,No payment history found.,결제 내역이 없어요,未找到付款記錄。,existing
+payment_details_displayed,※ Payment history is displayed for the past 1 year only.,※ 결제 내역은 지난 1년 동안까지만 표시됩니다.,※ 僅顯示過去1年的付款記錄。,existing
+result,Result,측정결과,結果,existing
+strength,Strength,근력 측정결과,力量,existing
+muscle_funtion,Muscle function,근기능 측정결과,肌肉功能,existing
+mr_comment_very_good,Your muscle function is perfect.\nLet's keep it up\n,근기능이 아주 좋아요!\n꾸준히 유지해볼까요,你的肌肉功能很完美。,existing
+mr_comment_good,Your muscle function is good.\nTry to make it perfect!\n\n,근기능이 좋습니다!\n조금만 개선하면 아주 좋을거에요,你的肌肉功能很好。,existing
+mr_comment_normal,Your muscle function is normal.\nExercise is needed to be better.\n\n,근기능이 부족합니다.\n운동으로 충분히 좋아질 수 있어요,你的肌肉功能正常。,existing
+mr_comment_bad,Your muscle function is bad\nLet's start work out together.\n,근기능의 개선이 시급합니다.\n우리 같이 운동을 시작해볼까요?,你的肌肉功能不好\n我們一起開始運動吧。,existing
+mr_comment_no_data,The measurement hasn't\ncompleted yet.,측정이 안된 부위가 있어요.\n모두 측정 후 다시 진행해주세요.,測量尚未完成。,existing
+mr_client_id,Client No.,회원번호,客戶編號,existing
+mr_age,Age,나이,年齡,existing
+mr_sex,Sex,성별,性別,existing
+mr_sex,Sex,성별,性別,existing
+mr_male,M,남,男性,existing
+mr_male,M,남,中號,existing
+mr_female,F,여,女性,existing
+mr_female,F,여,F,existing
+mr_muscle_function_measurement,Muscle Function Measurement\nResults,근기능 측정 결과,肌肉功能測量\n結果,existing
+mr_weight,Weight,체중,重量,existing
+mr_weight,Weight,체중,重量,existing
+mr_print_date,Print date,출력일,列印日期,existing
+mr_print_date_format,"dd/MM/yyyy, HH:mm",yyyy-MM-dd HH:mm,日/月/年，時:分,existing
+mr_miniplus_overall_score,Measurement Overall Score,미니플러스 근기능 종합 점수,測量總分,existing
+mr_measurement_details,Measurement Details,측정 결과 비교,測量詳情,existing
+mr_imbalance,Imbalance,매우 약함,不平衡,existing
+mr_balance,Balance,균형,平衡,existing
+mr_left,L,좌,左,existing
+mr_right,R,우,右,existing
+mr_front,F,전,正面,existing
+mr_back,B,후,背面,existing
+mt_date_format_pie,dd/MM/yyyy,yyyy-MM-dd,日/月/年,existing
+mr_push,UE Front (L/R),상체 전면 좌:우,UE 前（左/右）,existing
+mr_pull,UE Back (L/R),상체 후면 좌:우,UE 後（左/右）,existing
+mr_rot,Trunk Rotation (L/R),몸통 좌:우,軀幹旋轉（左/右）,existing
+mr_upper,UE (Front/Back),상체 전:후,UE（前/後）,existing
+mr_lower,LE (Front/Back),하체 전:후,LE（前/後）,existing
+mr_right_top_description,Measurement results | Based on the latest measurement data,측정 결과 | 항목별 최근 측정 데이터 기준,測量結果|根據最新測量數據,existing
+mr_detailed_balance_result,Detailed balance results,항목별 힘차이 측정 결과,詳細的餘額結果,existing
+mr_pie_chart_comment_good,Your strength is balanced.,힘 차이가 거의 없습니다.,你的力量是平衡的。,existing
+mr_pie_chart_comment_normal,Your balance is in normal range.,표기된 %만큼 그래프가 빈 쪽이 약합니다.,您的餘額在正常範圍內。,existing
+mr_pie_chart_comment_bad,Risk of injury'll increase on weaker side.,약한 쪽의 부상 위험이 증가됩니다.,較弱的一側受傷的風險會增加。,existing
+mr_pie_chart_comment_none,No data.,데이터 없음,沒有數據。,existing
+mr_warming_text,"If there is a large difference in the number of\nmeasurement days (more than a month),\nreassessment is required for accurate results.",항목 간 측정 일수의 차이가 많이 나는 경우(한 달 이상)\n정확한 결과를 위해 재측정이 필요합니다.,如果測量天數相差較大（超過一個月），則需要重新評估以獲得準確的結果。,existing
+mr_exercise_history,Exercise History,지난 결과와 비교,運動史,existing
+mr_before,Before,이전,前,existing
+mr_recent,Recent,최근,最近,existing
+mr_recent,Recent,최근,最近的,existing
+mr_no_data_line_chart,Measurement is\nneeded,측정이 필요합니다.,需要測量,existing
+mr_initial_data,Initial Data,최초측정,初始數據,existing
+mr_tracking_details,Tracking Details,근기능 추세,追蹤詳情,existing
+mr_tracking_comment,The tracking details shows maximum 10 measurement results.,본 결과지의 추세 그래프는 최근 측정 결과 포함 10회까지의 추세만 보여줍니다.,追蹤詳細資訊最多顯示 10 個測量結果。,existing
+mr_end_comment,"A number of muscles in our body generates different movements. Balanced muscle strength would help improve\nexercise performance, pain control, and prevent injury risk. The Miniplus muscle function test measures and\nevaluates the muscle strength balance of our body through 7 kinds of movement tests.","우리 몸의 다양한 종류의 근육들은 서로 다른 움직임을 만들어 냅니다. 이러한 근육들의 밸런스가 향상 될수록, 운동 수행 효과 향상,\n부상 및 통증 방지가 됩니다. 미니플러스 근기능 평가는 7가지 기능 테스트를 통해 우리 몸의 근력 밸런스를 측정하고 평가합니다.",我們體內的許多肌肉會產生不同的運動。平衡的肌肉力量有助於提高運動表現、控制疼痛並預防受傷風險。 Miniplus肌肉功能測試透過7種運動測試來測量和評估我們身體的肌肉力量平衡。,existing
+mr_how_to_calculate,How to calculate the overall score?  |  ,근기능 종합점수 산정 기준 |,總分如何計算？ |,existing
+mr_how_to_calculate_solution,Total score of 100 points for\neach measurement data our of 20 points,평가항목을 각 20점 만점으로 종합 100점 산정,總分為 100 分，\n每項測量數據共 20 分,existing
+mr_rep,,회,代表,existing
+please_wait,Please wait,잠시만 기다려주세요,請稍等,existing
+miniplus_report,Miniplus Report,Miniplus 결과지,迷你加報告,existing
+miniplus_report_loading,Generating report,Miniplus 결과지 생성중...,產生報告,existing
+xim_report_loading,Generating report,XIM 결과지 생성중...,產生報告,existing
+evaluation,Evaluation,평가,評估,existing
+weight_,Weight,몸무게,重量,existing
+xim_evaluation,Xim Total Evaluation,XIM 종합 평가,西姆綜合評價,existing
+muscular_strength,Detailed Results\n,종목별 근력 차이,詳細結果\n,existing
+exercise_history,Detailed Results (muscular strength),종목별 밸런스 차이,詳細結果（肌肉力量）,existing
+comparison_of_measurement_data,Comparison of measurement data,측정 데이터 비교 - 측정 운동 기록 12회차,測量數據對比,existing
+muscle_strength_score,Strength Score,근력점수,力量分數,existing
+xim_ranking,Rank,순위,秩,existing
+xim_score,,점,積分,existing
+xim_top,Top,연령•성별 대비\n상위,頂部,existing
+xim_overall_score,Total Score,종합 점수,總分,existing
+xim_strength_level,Evaluate the strength level through 1RM test,각 종목별 1RM 테스트를 통해 근력 수준을 평가합니다.,透過1RM測試評估力量水平,existing
+xim_evaluation_strength_score,Xim Strength Score,XIM 평가 근력 점수,Xim 力量評分,existing
+xim_evaluation_result,"Provide a strength score depending on individual’s age, sex, body weight through ACSM guideline.","ACSM 가이드라인을 기준으로 각 운동별로 나이, 성별, 몸무게를 고려하여 본인의 근력 수준을 점수로 표현합니다.",根據 ACSM 指南，根據個人的年齡、性別、體重提供力量評分。,existing
+xim_evaluation_report,Xim Balance Score,XIM 평가 밸런스 점수,Xim 平衡分數,existing
+xim_final_description,Provide a balance score by measuring strength difference between left and right side. Unbalanced strength might lead to occur injuries in a higher chance when exercising.  ,왼쪽과 오른쪽의 힘 밸런스를 측정하여 차이에 대한 수치를 점수로 표현합니다.운동 시 힘의 밸런스가 맞지 않다면 신체적으로 불균형한 근육 발달이 일어날 뿐 아니라 약화된 부위에 대한 부상의 위험도 커지게 됩니다.,透過測量左右側的力量差異來提供平衡分數。力量不平衡可能會導致運動時受傷的幾率較高。,existing
+note,Note,비고,筆記,existing
+bench_press,Bench Press,벤치 프레스,臥推,existing
+bench_press,Bench Press,벤치 프레스,臥推,existing
+lat_pull_down,Lat Pull Down,렛 풀 다운,高位下拉,existing
+lat_pull_down,Lat Pull Down,렛 풀 다운,高位下拉,existing
+SHOULDER001,Shoulder Press,숄더 프레스,肩部推舉,existing
+SHOULDER001,Shoulder Press,숄더 프레스,肩部推舉,existing
+SHOULDER001,Shoulder Press,숄더 프레스,肩部\n 推舉,existing
+BACK001,Deadlift,데드리프트,硬舉,existing
+BACK001,Deadlift,데드리프트,硬舉,existing
+print,Print,인쇄,列印,existing
+share,Share,공유,分享,existing
+miniplus_report_description,There are no measurement results.\nPlease proceed with the muscle strength\nmeasurement on the heart machine!,측정 결과가 없습니다.\n심 머신에서 근력 측정을 진행해주세요!,沒有測量結果。,existing
+TYPE_00008,Bench Press,벤치 프레스,臥推,existing
+TYPE_00008,Bench Press,벤치 프레스,臥推,existing
+TYPE_00015,Shoulder Press,숄더 프레스,肩部推舉,existing
+TYPE_00015,Shoulder Press,숄더 프레스,肩部推舉,existing
+TYPE_00015,Shoulder Press,숄더 프레스,肩部\n 推舉,existing
+TYPE_00003,Lat Pull Down,렛 풀 다운,高位下拉,existing
+TYPE_00003,Lat Pull Down,렛 풀 다운,高位下拉,existing
+TYPE_00002,Deadlift,데드리프트,硬舉,existing
+TYPE_00002,Deadlift,데드리프트,硬舉,existing
+shoulder_custom,Shoulder\n  Press,숄더 프레스,肩部推舉,existing
+shoulder_custom,Shoulder\n  Press,숄더 프레스,肩部推舉,existing
+shoulder_custom,Shoulder\n  Press,숄더 프레스,肩部\n 推舉,existing
+membership_info_1,Membership,회원권,會員資格,existing
+membership_info_2,Myongji branch,명지점,明知分店,existing
+membership_info_desc,Choose a membership and start working out with Renfit!,회원권을 선택하고 리앤핏에서 운동을 시작해보세요!,選擇會員資格並開始與 Renfit 一起鍛鍊！,existing
+membership_renfit,Renfit Membership,리앤핏 회원권,倫菲特會員,existing
+membership_renfit,Renfit Membership,리앤핏 회원권,倫菲特會員,existing
+month, month,개월,月,existing
+regular_price,Price,정상가,價格,existing
+won, won,원,韓元,existing
+open_event,Open Event,오픈이벤트,公開活動,existing
+membership_information,Membership Information,회원권 관련 안내사항,會員資訊,existing
+view_privacy_and_policy,View details,표준 이용 약관 보기,看詳情,existing
+please_select_membership,Please select a membership,회원권을 선택해 주세요,請選擇會員資格,existing
+select_membership,Select Membership,회원권 선택,選擇會員資格,existing
+logged_in,Logged in,로그인 되었습니다.,已登入,existing
+overall_ranking,Overall Ranking,모두의 순위,總排名,existing
+my_ranking,My Ranking,당신의 순위,我的排名,existing
+attendance,Attendance,출석,出席率,existing
+exercise_time,Exercise Time,운동시간,運動時間,existing
+total_strength,Total Strength Training,근력\n운동 총량,全面肌力訓練,existing
+aerobic_calories_burned,Aerobic Calories Burned,유산소\n소모칼로리,有氧消耗卡路里,existing
+2-min-step,2-Min Step,2분 스탭,2 分鐘步,existing
+rank,@rank,@rank위,@秩,existing
+days,@day Days,@day 일,@天日,existing
+duration,@hour:@minute,@hour시간@minute분,@小時：@分鐘,existing
+kg,@kg Kg,@kgKg,@公斤公斤,existing
+kcal,@kcal Kcal,@kcal Kcal,@kcal千卡,existing
+steps,@step Steps,@step 스탭수,@step 步驟,existing
+daily_workout,Daily Information,일일 데이터,每日資訊,existing
+sets,Set,세트,放,existing
+reps,Reps,갯수,代表,existing
+target,Target Weight,운동 총량,目標體重,existing
+target,Target Weight,운동 총량,全部的,existing
+target,Target Weight,운동 총량,全部的,existing
+actual_weight,Weight,실제중량,重量,existing
+total_weight_calendar,Total,운동 총량,目標體重,existing
+total_weight_calendar,Total,운동 총량,全部的,existing
+total_weight_calendar,Total,운동 총량,全部的,existing
+xim_measurement,Muscle strength measurement was conducted.,근력 측정을 진행했습니다.,進行肌肉力量測量。,existing
+miniplus_measurement,Muscle function measurement was conducted.,근기능 측정을 진행했습니다.,進行肌肉功能測量。,existing
+invalid_workout_information,Workout information is invalid.,운동 정보가 잘못되었습니다.,鍛鍊資訊無效。,existing
+invalid_measurement_information,Measurement information is invalid.,측정 정보가 잘못되었습니다.,測量資訊無效。,existing
+short_weight,Short w.,단축중량,短w。,existing
+eccentric,Eccentric,신장중량,偏心,existing
+total_calendar,Total,운동 총량,目標體重,existing
+total_calendar,Total,운동 총량,全部的,existing
+total_calendar,Total,운동 총량,全部的,existing
+set_weight,Set-Weight,설정중량,設定重量,existing
+constant,Constant,스프링계수,持續的,existing
+target_weight,Target,목표중량,目標,existing
+start_weight,Start,시작중량,開始,existing
+final_weight,Final,최종중량,最終的,existing
+average_unfolding_force,Average Unfolding Force,펼때 힘 평균,平均展開力,existing
+average_folding_force,Average Folding Force,접을때 힘 평균,平均折疊力,existing
+combined_avr_force,Combined Average Force,합산 평균 힘,綜合平均力,existing
+left_force,Left Force,좌측 힘,左力,existing
+right_force,Right Force,우측 힘,右力,existing
+calendar_description,Displays the monthly attendance days. Select a day to view exercise data.\nThe color displayed on the calendar varies depending on the daily exercise area.,해당 월의 출석일을 표시합니다.\n출석일 선택 시 각 운동별 일일 데이터를\n확인할 수 있습니다.\n\n일일 운동 부위에 따라\n달력에 표시되는 색상이 달라집니다.,顯示每月出席天數。選擇一天查看鍛鍊資料。,existing
+workout_type1,Upper body,상체운동,上半身,existing
+workout_type2,Lower body,하체운동,下半身,existing
+workout_type3,Test,테스트,測試,existing
+workout_type4,Full body,상하체운동,全身,existing
+workout_type5,Cardio,유산소운동,有氧活動,existing
+workout_type5,Cardio,유산소운동,有氧運動,existing
+workout_type6,Strength+Cardio,근력+유산소,力量+有氧運動,existing
+select_all,Select All,전체 선택,選擇全部,existing
+worked_out_more_than_1,1 day,1일 이상 출석,1天,existing
+worked_out_more_than_2,2 days,2일 이상 출석,2天,existing
+worked_out_more_than_3,3 days,3일 이상 출석,3天,existing
+worked_out_more_than_4,>4 days,4일 이상 출석,>4天,existing
+history_no_data_text,No workout data found!,운동 데이터가 없어요!,沒有找到鍛鍊數據！,existing
+error_accured_while_loading,An error occurred while loading the data. Please try again.,데이터를 로드하는 동안 오류가 발생했습니다. 다시 시도해 주세요.,載入資料時發生錯誤。請再試一次。,existing
+miniplus,Miniplus,미니플러스,迷你加,existing
+xim,Xim,심,希姆,existing
+module,Module,스마트모듈,模組,existing
+equivalence_mode,Equivalence Mode,등속성 모드,等效模式,existing
+extension_mode,Extension Mode,등장성 모드,擴展模式,existing
+content_mode,Content Mode,컨텐츠 모드,內容模式,existing
+training_mode,Training Mode,트레이닝 모드,訓練模式,existing
+climit,Climit,클라이밋,克利米特,existing
+step_count,Level,스텝수,等級,existing
+kcal_burned,Kcal,소모칼로리,大卡,existing
+exercise_range,Distance,운동거리,距離,existing
+time_format_min_s,@mm:@ss,@mm분 @ss초,@mm:@ss,existing
+climit_perfect,Perfect,퍼펙트,完美的,existing
+climit_good,Very Good,너무 좋아요,非常好,existing
+climit_fair,Try Harder,좀 더 노력해요,更加努力,existing
+climit_bad,Too Small,너무 작아요,太小,existing
+view_details,View Details,운동 내용 상세 보기,看詳情,existing
+exercise_details,Exercise Details,운동 내용,運動詳情,existing
+in_progress,In Progress,진행중,進行中,existing
+today_exercise,Today's Exercise,오늘의 운동,今天的練習,existing
+exercise_plan,Exercise Plan,운동 플랜,鍛鍊計畫,existing
+exercise_plan,Exercise Plan,운동 플랜,鍛鍊計畫,existing
+no_exercise_plan,No Exercise Plan.,운동 플랜이 없습니다.,沒有運動計畫。,existing
+ask_trainer,Consult Your Trainer.,트레이너에게 문의 해보세요.,請諮詢您的培訓師。,existing
+ask_trainer,Consult Your Trainer.,트레이너에게 문의 해보세요.,請聯繫培訓師。,existing
+view_plan_details,View Plan Details,운동 플랜 상세 보기,查看計劃詳情,existing
+THIGH,Thigh,허벅지,大腿,existing
+HIP,Hip,엉덩이,時髦的,existing
+BACK,Back,등,後退,existing
+ABDOMINAL,Abdominal,복부,腹部,existing
+SHOULDER,Shoulder,어깨,肩膀,existing
+ARM,Arm,팔,手臂,existing
+CHEST,Chest,가슴,胸部,existing
+CALF,Calf,종아리,小牛,existing
+current_week,Current Week,현재 주차,本週,existing
+schedule,,일정,行程,existing
+completed_plan_count,Completed,완료 플랜 수,完全的,existing
+week,,주차,{序數}週,existing
+main_course,,주 과정,{number} 週鍛煉,existing
+count,,개,物件導向,existing
+day,Day @day,@day 일차,日@day,existing
+today_plan,Today's plan,오늘 할 플랜,今天的計劃,existing
+view_details_button,View,자세히 보기,看法,existing
+used_machine,Used Machine,사용 머신,二手機器,existing
+targeted_area,Targeted Area,단련 부위,目標區域,existing
+exercise_plan!,Exercise Plan!,운동 플랜!,鍛鍊計畫！,existing
+workout_plan_part1,The ,트레이너가 설계한,這,existing
+workout_plan_part2,workout plan,운동 플랜,鍛鍊計畫,existing
+workout_plan_part2,workout plan,운동 플랜,鍛鍊計畫,existing
+workout_plan_part3, designed by your trainer indicates the minimum number of workouts you need to complete this week. The ,은\n이번주에 최소한 해야하는 운동 횟수 입니다.\n수행 여부에 따라,由您的教練設計的指示您本週需要完成的最少鍛鍊次數。這,existing
+workout_plan_part4,system will manage,시스템이 관리,系統將管理,existing
+workout_plan_part5," your progress based on your performance, so just focus on exercising diligently!",하니\n운동만 열심히 해주세요!,你的進步取決於你的表現，所以只要專注於努力鍛鍊就好了！,existing
+exercise_plan_update,Update: Every Monday at 3:00 am,운동플랜 업데이트: 매주 월요일 am03:00,更新時間：每週一凌晨 3:00,existing
+no_plan_today,There is no exercise plan today.,오늘은 운동 플랜이 없습니다.,今天沒有運動計畫。,existing
+contact_trainer,Please contact the trainer.,트레이너에게 문의 해보세요.,請諮詢您的培訓師。,existing
+contact_trainer,Please contact the trainer.,트레이너에게 문의 해보세요.,請聯繫培訓師。,existing
+period,Period,진행 시간,時期,existing
+period,Period,진행 시간,期間,existing
+LEFT,Left,좌측(한손),左,existing
+RIGHT,Right,우측(한손),右,existing
+DUMBBELL,Dubmbbell,덤벨(양손),啞鈴,existing
+BARBELL,Barbell,바벨(양손),槓鈴,existing
+FULL,Full Body,전신,全身,existing
+workout_mode,Mode,운동모드,模式,existing
+duration_desc,Duration,진행 시간,時期,existing
+duration_desc,Duration,진행 시간,期間,existing
+repetitions,Reps,횟수,次,existing
+exercise_instruction,Exercise Instruction,운동 방법,運動指導,existing
+precautions,Precautions,주의사항,預防措施,existing
+notes,Notes,메모,筆記,existing
+left_right_distinction,Left/Right,좌/우 구분,左/右,existing
+handle,Handle,손잡이,處理,existing
+exercise_supplies,Exercise Supplies,운동 준비물,運動用品,existing
+no_supplies_needed,No supplies needed.,준비물이 없습니다.,無需補給。,existing
+date,Date,날짜,日期,existing
+image,Image,이미지,影像,existing
+arm_selection,Arm Selection,암 선택,手臂選擇,existing
+left_arm,Left Arm,왼쪽 암,左臂,existing
+not_used,Not Used,사용 안함,未使用,existing
+pin_number,Up/Down Pin:,상하 핀번호 :,上/下銷：,existing
+side_pin,Side Pin:,좌우 핀번호 :,側銷：,existing
+right_arm,Right Arm,오른쪽 암,右臂,existing
+exercise_list,Exercise List,운동 동작 목록,練習清單,existing
+verification_code_not_received,Didn't receive the verification code?,인증번호가 오지 않는다면?,沒有收到代碼？,existing
+go_to_login_dialog,Go to Login,로그인 하러 가기,前往登入,existing
+check_id,Check ID,아이디 확인,身份驗證,existing
+check_id_desc,Here is the list of IDs that match your information.,회원님의 정보와 일치하는 아이디 목록입니다.,與您的資訊相符的 ID 清單。,existing
+fitvisor,,핏바이저,健身者,existing
+starting_in_different_way,Login with Email,이메일로 시작하기,,new
+level_of_exercise_reason,"Based on your exercise records and goals, We can automatically recommend weights and repetitions.","내 운동기록과 목적에 따라 무게, 횟수를 자동으로 추천해 드려요.",,new
+advanced_desc,I'm an exercise addict who can't go a day without working out.,하루라도 운동을 빠지면 안되는 운동 중독이에요,,new
+how_much_do_you_do_desc,"Think about your usual level of movement and exercise, and make a selection.",평소 움직이는 정도와 운동량을 생각해보시고 선택해주세요!,,new
+login_with_gmail,Login with Gmail,Gmail로 시작하기,,new
+add_subscription,+ Add Subscription,+ 회원권 추가,,new
+mr_end_comment2,"Levels by Overall Score : 100~90 (Very Good), 89 ~ 80 (Good), 79 ~ 70 (Normal), 69 ~ (Bad)\nIf there is a missing data, overall score will not be shown.","종합 점수별 평가 등급 : 100~90점  (Very Good), 89~80점 (Good), 79~70점 (Normal), 69점~ (Bad)\n*평가 항목이 1건이라도 없을 경우, 종합 점수가 반영되지 않습니다.",,new
+not_available_on_kiosk,This feature is not available on the kiosk. Please use the mobile application to access this function.,이 기능은 키오스크에서 사용할 수 없습니다. 이 기능을 이용하려면 모바일 애플리케이션을 사용해주세요.,,new
+why_keep_taping,Why are you keep tapping this?,왜 계속 이것을 탭하고 계십니까?,,new
+dialog_image_path,assets/images/renfit/exercise-program/dialog_image_en.png,assets/images/renfit/exercise-program/dialog_image_ko.png,,new
+sign_up_info,Please enter the information to sign up,회원가입을 위한 정보를 입력해주세요.,,new
+agree_to_all_terms,Agree to all terms,약관 전체 동의,,new
+terms_of_service_agreement_required,Agree to the terms of service (required),이용약관 동의(필수),,new
+personal_information_collection_agreement_required,Agree to the collection and use of personal information (required),개인정보 수집 및 이용동의(필수),,new
+email_sms_marketing_agreement_optional,Agree to receive marketing information via E-mail and SMS (optional),E-mail 및 SMS 광고성 정보 수신동의(선택),,new
+promotion_event_info,We will send you information about various promotions and events.,"다양한 프로모션 소식, 이벤트 정보를 보내드립니다.",,new
+name,Name,이름,,new
+date_of_birth_text_field,Date of Birth,생년월일,,new
+date_format_example,"Please enter numbers only in the format MM/DD/YYYY (e.g., 01312023).",예) 20240101 형식으로 숫자만 입력해주세요.,,new
+date_format,MMddyyyy,yyyyMMdd,,new
+select_country,Select Country,국가 선택,,new
+phone_number_numeric_only,Please enter only numbers for your phone number.,휴대폰 번호를 숫자만 입력해 주세요.,,new
+phone_number_txf,Phone Number,휴대폰번호,,new
+verification_request,Verify,인증요청,,new
+verify_phone_number,Please check if your phone number is correct. The verification code may be delayed depending on your carrier.\n\nYou can resend the verification code once every minute.,휴대전화번호가 정확한지 확인해 주세요. 통신사에 따라 인증번호 발송이 늦어질 수 있습니다.\n\n인증번호 재전송은 1분에 1회 가능합니다.,,new
+enter_verification_code,Verification code.,인증번호를 입력해주세요.,,new
+email,Email,이메일,,new
+gender_required,Gender (Required),성별(필수),,new
+user_already_exist,User already exists.,이미 리앤핏 회원이시네요.,,new
+user_already_exist_message,The user already exists.,이미 가입된 회원입니다. 로그인을 진행할까요,,new
+welcome_user,"Welcome, @userName!","@userName님, 환영합니다!",,new
+start_exercise,Start a fail-proof workout with Renfit.,리앤핏과 함께 실패없는 운동을\n시작해보세요.,,new
+start_renfit,Start,리앤핏 시작하기,,new
+user_does_not_exist,Renfit account does not exist.,리앤핏 계정이 존재하지 않습니다.,,new
+user_does_not_exist_desc,"No Renfit account matches the provided information. If you don't remember your ID, please use [Find ID] first before attempting to recover your password.",입력한 정보와 일치하는 리앤핏계정이 존재하지 않습니다. \n아이디가 기억나지 않으시면 먼저 [아이디 찾기] 를 진행한 후 비밀번호 찾기를 시도해 주세요.,,new
+kakao_login,Kakao Social Login,카카오 소셜 로그인,,new
+naver_login,Naver Social Login,네이버 소셜 로그인,,new
+apple_login,Apple Social Login,애플 소셜 로그인,,new
+google_login,Google Social Login,구글 소셜 로그인,,new
+find_password_desc,Please enter the information to retrieve your password.,비밀번호를 찾기 위한 정보를 입력해 주세요.,,new
+date_format_day,Joined on @year/@month/@day,@year년 @month월 @day일 가입,,new
+reset_password_description,Please reset the password for your account.,계정의 비밀번호를 재설정해 주세요.,,new
+password_changed,Password Reset Complete,비밀번호 재설정 완료,,new
+password_changed_desc,Please log in with your new password.,변경된 비밀번호로 로그인해주세요.,,new
+setting_page,Settings,설정,,new
+manage_my_information,Manage My Information,내 정보 관리,,new
+email_id,Email ID,이메일 아이디,,new
+change_password,Change Password,비밀번호 변경,,new
+linked_account,Linked Account Information,연결 계정 정보,,new
+linked_account_title,Account Information,계정 정보 안내,,new
+linked_account_desc,These are the social login accounts linked to your account.,회원님의 계정에 연결된 소셜 로그인 계정입니다.,,new
+change_name,Edit Name,이름 수정,,new
+edit_confirm,Confirm,수정하기,,new
+change_phone_number,Edit Phone Number,휴대폰 번호 수정,,new
+change_phone_number_desc,Your member number will not change even if your phone number does.,휴대폰 번호가 변경되더라도 멤버 번호는 바뀌지 않습니다.,,new
+change_password_enter_old,Enter Current Password,현재 비밀번호 입력,,new
+change_password_enter_old_desc,Please enter your current password to verify your linked account information.,연결된 계정 정보를 확인하기 위해 현재 비밀번호를 입력해주세요.,,new
+change_password_title,Edit Password,비밀번호 수정,,new
+error_while_changing_data,An error occurred while updating your information.,정보를 업데이트하는 중에 오류가 발생했습니다.,,new
+wrong_password,Incorrect Password,잘못된 비밀번호,,new
+didnt_receive_code,Didn't receive the verification code?,인증 번호가 오지 않나요?,,new
+did_not_receive_code_desc,Please check if your phone number is correct. The verification code may be delayed depending on your carrier.\n\nYou can resend the verification code once every minute.,휴대전화번호가 정확한지 확인해 주세요. 통신사에 따라 인증번호 발송이 늦어질 수 있습니다.\n\n인증번호 재전송은 1분에 1회 가능합니다.,,new
